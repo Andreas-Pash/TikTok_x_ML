@@ -1,5 +1,5 @@
 # **TikTok Project**
-**Classification model to determine whether a video contains a claim or whether it offers an opinion.**
+**A machine learning classification model to determine whether a video contains a claim or whether it offers an opinion.**
 
 
 **The purpose** of this model is to increase response time and system efficiency by automating the initial stages of the claims process.
